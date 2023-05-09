@@ -19,10 +19,8 @@ public class Jogador {
 		} else {
 			return false;
 		}
-		
-		
-
 	}
+	
 	
 	boolean andar(Direcao direcao) {
 		switch(direcao) {
